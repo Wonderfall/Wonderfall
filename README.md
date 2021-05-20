@@ -7,7 +7,7 @@
 I don't have any degree, I'm just really curious about all sorts of things.
 
 #### Contact me
-- 🔒 You can contact me using my PGP key ([ed5519](https://cloud.targaryen.house/s/XsFjcfJezANBq5K)/[RSA](https://cloud.targaryen.house/s/XsFjcfJezANBq5K)).
+- 🔒 You can contact me using my PGP key ([ed25519](https://cloud.targaryen.house/s/XsFjcfJezANBq5K)/[RSA](https://cloud.targaryen.house/s/4ndbeKmoo8sEjDz)).
 - 💬 I'm also available at Matrix: `wonderfall:targaryen.house`.
 
 Keep in mind I may be slow to respond!
